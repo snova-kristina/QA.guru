@@ -1,0 +1,9 @@
+ /.idea
+ /out
+ *.iml
+ *.class
+ *.log
+/2_lesson_qa_guru_github.iml
+/out/production/2_lesson_qa_guru_github/rudik/Main.class
+/out/
+/.idea/
